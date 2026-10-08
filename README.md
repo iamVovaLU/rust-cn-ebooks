@@ -33,10 +33,10 @@ The Rust Standard Library 文档中文版 - API 参考手册.
 
 ## 更多下载
 
-仓库的 [Releases](../../releases) 里提供打包好的 zip, 包含额外内容:
+仓库的 [Releases](../../releases/latest) 里提供打包好的 zip, 包含额外内容:
 
-- `Rust程序设计语言-中文版.zip`: PDF + EPUB + Markdown + 完整 mdBook HTML 站点
-- `Rust标准库-中文版.zip`: PDF + EPUB + Markdown + 分模块 markdown 目录树 (1920 个文件) + 可浏览 HTML
+- `rust-programming-language-cn.zip` (9.7 MB): PDF + EPUB + Markdown + 完整 mdBook HTML 站点
+- `rust-standard-library-cn.zip` (36 MB): PDF + EPUB + Markdown + 分模块 markdown 目录树 (1920 个文件) + 可浏览 HTML
 
 ## 说明
 
